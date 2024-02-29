@@ -21,9 +21,13 @@ Pour jouer au jeu, suivez ces étapes :
 
 ## Captures d'écran
 
-![Simulator Screen Shot - iPhone 14 Pro - 2023-09-15 at 12 51 14](https://github.com/BanggEddy/SwiftMorpion/assets/108392457/b81228bf-8fcd-4f03-8d97-1a2e9e351792)![Simulator Screen Shot - iPhone 14 Pro - 2023-09-15 at 13 52 33](https://github.com/BanggEddy/SwiftMorpion/assets/108392457/276a8cfe-89cc-4945-8bfb-86366b733d5e)
-![Simulator Screen Shot - iPhone 14 Pro - 2023-09-15 at 13 52 44](https://github.com/BanggEddy/SwiftMorpion/assets/108392457/34d1e968-f3e5-40a3-92d8-5df8ffd9774e)
-![Simulator Screen Shot - iPhone 14 Pro - 2023-09-15 at 13 53 08](https://github.com/BanggEddy/SwiftMorpion/assets/108392457/20169234-791e-4ae3-8143-65967f03dd99)
+<div style="display:flex; justify-content: center;">
+    <img src="https://github.com/BanggEddy/SwiftMorpion/assets/108392457/b81228bf-8fcd-4f03-8d97-1a2e9e351792" alt="Capture d'écran 1" width="200">
+    <img src="https://github.com/BanggEddy/SwiftMorpion/assets/108392457/276a8cfe-89cc-4945-8bfb-86366b733d5e" alt="Capture d'écran 2" width="200">
+    <img src="https://github.com/BanggEddy/SwiftMorpion/assets/108392457/34d1e968-f3e5-40a3-92d8-5df8ffd9774e" alt="Capture d'écran 3" width="200">
+    <img src="https://github.com/BanggEddy/SwiftMorpion/assets/108392457/20169234-791e-4ae3-8143-65967f03dd99" alt="Capture d'écran 4" width="200">
+</div>
+
 
 
 ## Installation
